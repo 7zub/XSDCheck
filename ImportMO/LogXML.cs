@@ -67,7 +67,6 @@ namespace ImportMO
 
             xdoc.Add(base_elem);
             //xdoc.Save("Xml_report/" + report_file_name);
-
             return xdoc;
         }
     }

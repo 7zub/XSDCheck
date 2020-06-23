@@ -95,7 +95,7 @@ namespace ImportMO
             }
             catch (Exception ex)
             {
-                //setLog(ex.Data.ToString());
+                //setLog(ex.Data.ToString())
             }
 
             if (handler.MyValidationErrors.Count > 0)
